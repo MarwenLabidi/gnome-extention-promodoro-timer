@@ -1,0 +1,8 @@
+{
+  "name": "promodoro-timer",
+  "description": "a simple promodoro timer ---> 30 minute focus time and 5 minute btime to take a break",
+  "uuid": "gnome-extention-promodoro-timer",
+  "shell-version": [
+    "3.38"
+  ]
+}
